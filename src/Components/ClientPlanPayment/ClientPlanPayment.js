@@ -46,7 +46,7 @@ function ClientPlanPayment() {
     console.log(data);
 
     const options = {
-      key: 'rzp_test_V6c4v4ekLUGUMI',
+      key: 'rzp_test_LOdnSSt0QkAdAU',
       amount: data.order.amount,
       currency: 'INR',
       name: 'fitYou',
